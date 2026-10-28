@@ -33,7 +33,7 @@ The app is deployed on **Render** (free plan) with the **Blueprint** feature. A 
 configure by hand except the secret values.
 
 > The screenshots below are illustrative and use sample values only (fake URL and fake keys).
-> The numbered markers match the steps.
+> The numbered markers match the steps. 
 
 **What `render.yaml` sets up**
 
